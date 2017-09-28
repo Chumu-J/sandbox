@@ -8,7 +8,7 @@ public class Sandbox {
 
 		System.out.println("Hello! ,Send my regards to the mac!");
 
-
+		System.out.println("All is well ChuuChaan! commit issues seems resolved");
 
 	}
 
